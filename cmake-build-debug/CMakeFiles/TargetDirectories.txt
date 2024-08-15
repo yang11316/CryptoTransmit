@@ -1,0 +1,3 @@
+G:/Code_Project/CryptoTransimisson/cmake-build-debug/CMakeFiles/CryptoTransimisson.dir
+G:/Code_Project/CryptoTransimisson/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/Code_Project/CryptoTransimisson/cmake-build-debug/CMakeFiles/rebuild_cache.dir
